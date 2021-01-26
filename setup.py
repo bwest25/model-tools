@@ -9,7 +9,7 @@ with open('README.md') as readme_file:
 requirements = [
     # "brainio_base @ git+https://github.com/brain-score/brainio_base",
     "brainio_base @ git+https://github.com/bwest25/brainio_base",
-    "brain-score @ git+https://github.com/brain-score/brain-score",
+    "brain-score @ git+https://github.com/bwest25/brain-score",
     "h5py",
     "Pillow",
     "numpy",
